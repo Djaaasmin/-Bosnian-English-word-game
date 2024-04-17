@@ -23,6 +23,9 @@ const rijecnik = {
   'umoran' : 'tired',
   'blijed' : 'pale',
   'neobičan':'unusual',
+  'promjena':'change',
+
+  
  
 
 
